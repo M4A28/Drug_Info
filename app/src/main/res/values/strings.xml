@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Drugs Info</string>
+
+    <string-array name="search_type">
+
+        <item>Search Type</item>
+        <item>Trade name</item>
+        <item>Trade Price</item>
+        <item>Trade Company</item>
+        <item>Trade Effect</item>
+        <item>Trade anypos</item>
+        <item>Trade price-name</item>
+        <item>Google</item>
+
+    </string-array>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_start">Start</string>
+    <string name="title_update">Update</string>
+    <string name="title_insert">Insert</string>
+</resources>

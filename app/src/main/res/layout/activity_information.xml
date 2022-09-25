@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.InformationActivity">
+        <LinearLayout
+            android:layout_margin="@dimen/_8sdp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/tv_first_name"
+                android:layout_width="match_parent"
+                android:layout_margin="@dimen/_2sdp"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/_14ssp"
+                android:textColor="@color/black"
+                android:text="panadol cold and flue "/>
+
+            <View
+                android:layout_height="@dimen/_1sdp"
+                android:layout_width="match_parent"
+                android:background="@color/divider"
+                android:layout_margin="@dimen/_2sdp" />
+
+            <TextView
+                android:id="@+id/tv_com"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/_14ssp"
+                android:layout_margin="@dimen/_2sdp"
+                android:textColor="@color/black"
+                android:text="panadol cold and flue "/>
+
+            <View
+                android:layout_height="@dimen/_1sdp"
+                android:layout_width="match_parent"
+                android:background="@color/divider"
+                android:layout_margin="@dimen/_2sdp" />
+
+            <TextView
+                android:id="@+id/tv_pharmacology"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/_14ssp"
+                android:layout_margin="@dimen/_2sdp"
+                android:textColor="@color/black"
+                android:text="panadol cold and flue "/>
+
+            <View
+                android:layout_height="@dimen/_1sdp"
+                android:layout_width="match_parent"
+                android:background="@color/divider"
+                android:layout_margin="@dimen/_2sdp" />
+
+            <TextView
+                android:id="@+id/tv_gi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/_14ssp"
+                android:layout_margin="@dimen/_2sdp"
+                android:textColor="@color/black"
+                android:text="panadol cold and flue "/>
+
+            <View
+                android:layout_height="@dimen/_1sdp"
+                android:layout_width="match_parent"
+                android:background="@color/divider"
+                android:layout_margin="@dimen/_2sdp" />
+
+            <TextView
+                android:id="@+id/tv_route"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/_14ssp"
+                android:layout_margin="@dimen/_2sdp"
+                android:textColor="@color/black"
+                android:text="panadol cold and flue "/>
+
+            <View
+                android:layout_height="@dimen/_1sdp"
+                android:layout_width="match_parent"
+                android:background="@color/divider"
+                android:layout_margin="@dimen/_2sdp" />
+
+            <TextView
+                android:id="@+id/tv_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_2sdp"
+                android:textSize="@dimen/_14ssp"
+                android:textColor="@color/black"
+                android:background="@color/primary_light"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:padding="@dimen/_4sdp"
+                android:text="18 EGP"/>
+
+            <View
+                android:layout_height="@dimen/_8sdp"
+                android:layout_width="match_parent"
+                android:layout_margin="@dimen/_2sdp" />
+
+        </LinearLayout>
+
+</ScrollView>

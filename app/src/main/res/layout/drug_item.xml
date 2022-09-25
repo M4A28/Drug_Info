@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_5sdp"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/ly_mine_layout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_drug_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_12ssp"
+            android:layout_margin="@dimen/_2sdp"
+            android:text="Panadol cold and flue"/>
+
+        <TextView
+            android:id="@+id/tv_drug_com"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="@dimen/_10ssp"
+            android:layout_margin="@dimen/_2sdp"
+            android:text="Qex"/>
+
+    </LinearLayout>
+        <TextView
+            android:id="@+id/tv_drug_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@color/red"
+            android:textSize="@dimen/_11ssp"
+            android:layout_margin="@dimen/_5sdp"
+            android:layout_gravity="center"
+            android:text="24.5 EGP"/>
+
+
+
+</LinearLayout>
