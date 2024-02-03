@@ -10,8 +10,7 @@ This app serves as a reliable resource for individuals seeking accurate and up-t
 - Detailed Information: Get in-depth details about drug uses, dosage, side effects, and precautions.
 - Favorites: Save your favorite drugs for quick reference.
 - Offline Mode: Access drug information even without an internet connection.
-Screenshots
-[Insert screenshots or images showcasing the app's user interface]
+
 
 ## Prerequisites
 Android device running Android 6.0 (Marshmelo) or above.
@@ -26,7 +25,7 @@ Open the app and start exploring drug information.
 ## Contributions
 
 ## Contact
-For questions or inquiries, contact the project maintainer:
+For questions or inquiries, contact me:
 
-[Mohammed Mosa]
-[mohammed.mosa.eg@gmail.com]
+# [Mohammed Mosa]
+# [mohammed.mosa.eg@gmail.com]
